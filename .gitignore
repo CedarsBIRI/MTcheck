@@ -1,5 +1,4 @@
 *.m
 *.mat
 *.sh
-pushCircleHashes
-pushUCLAHashes
+push*Hashes
